@@ -178,8 +178,8 @@ Esta decisão está documentada com justificativa completa no notebook `1-EDA_Li
 
 **Lucas Coutinho Boros**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Coutinho%20Boros-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-coutinho-boros)
-[![GitHub](https://img.shields.io/badge/GitHub-Lucas--Coutinhob-181717?style=flat&logo=github&logoColor=white)](https://github.com/Lucas-Coutinhob)
+LinkedIn:https://www.linkedin.com/in/datalucasboros/
+GitHub https://github.com/Lucas-Coutinhob
 
 ---
 
