@@ -1,0 +1,17 @@
+# Dados — arquivos grandes demais para o GitHub
+Dados/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
